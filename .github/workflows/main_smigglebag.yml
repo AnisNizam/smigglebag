@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'Smigglebag'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0578BFDA7ED647BFB096CE130EB172C9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_52049B629CAA4ABE8DE9C732EA552D69 }}
           package: .
